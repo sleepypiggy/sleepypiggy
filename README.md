@@ -1,4 +1,5 @@
-## Hi there 👋
+## About Me
+Second year computer science student at the University of British Columbia.
 
 <!--
 **sleepypiggy/sleepypiggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
